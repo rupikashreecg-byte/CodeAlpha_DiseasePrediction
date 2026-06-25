@@ -6,7 +6,7 @@
 ---
 
 ## Overview
-This project predicts the likelihood of diseases based on patient medical data using four classification algorithms. Built for the **CodeAlpha ML Internship — Task 4**.
+This project predicts diseases using patient medical data and compares the performance of four machine learning classification algorithms. Developed as part of the CodeAlpha ML Internship (Task 4).
 
 ## Algorithms Used
 | Algorithm | Library | Notes |
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-The Gradio app will open in your browser automatically. A public share link is also printed in the terminal.
+The app will open in your browser after running the command.
 
 ## Project Structure
 ```
@@ -59,9 +59,10 @@ CodeAlpha_DiseasePrediction/
 - Python 3.8+
 - scikit-learn
 - XGBoost
-- Gradio (interactive UI)
-- Pandas, NumPy
+- Pandas
+- NumPy
 - Matplotlib
+- Gradio
 
 ---
 *Built by Rupika Shree | CodeAlpha ML Internship*
