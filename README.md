@@ -35,7 +35,7 @@ This project predicts the likelihood of diseases based on patient medical data u
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_DiseasePrediction.git
+git clone https://github.com/rupikashreecg-byte/CodeAlpha_DiseasePrediction.git
 cd CodeAlpha_DiseasePrediction
 
 # 2. Install dependencies
