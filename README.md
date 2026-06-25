@@ -64,4 +64,4 @@ CodeAlpha_DiseasePrediction/
 - Matplotlib
 
 ---
-*Built by [Your Name] | CodeAlpha ML Internship*
+*Built by Rupika Shree | CodeAlpha ML Internship*
