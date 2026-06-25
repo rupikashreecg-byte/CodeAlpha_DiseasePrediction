@@ -1,6 +1,6 @@
 """
 CodeAlpha ML Internship — Task 4: Disease Prediction from Medical Data
-Author: [Your Name]
+Author: Rupika Shree
 GitHub Repo: CodeAlpha_DiseasePrediction
 
 Algorithms Used: Logistic Regression, SVM, Random Forest, XGBoost
